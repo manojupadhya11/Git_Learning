@@ -1,1 +1,2 @@
 old payment config
+new payment configuration
