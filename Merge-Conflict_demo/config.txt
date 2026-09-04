@@ -1,0 +1,3 @@
+database=mysql
+port=3306
+environment=dev
